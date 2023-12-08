@@ -6,7 +6,7 @@
         {
             
             string result = Numbers.ConvertNumtoWords(1);
-  
+            Console.WriteLine(result);
             
             
         }
